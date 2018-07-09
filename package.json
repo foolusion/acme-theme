@@ -6,7 +6,7 @@
         "url": "https://github.com/foolusion/acme-theme.git",
         "type": "git"
     },
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "foolusion",
     "engines": {
         "vscode": "^1.25.0"
