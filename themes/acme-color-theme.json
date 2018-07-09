@@ -14,7 +14,7 @@
 		"button.foreground": "#000000",
 		"editor.background": "#ffffea",
 		"editor.foreground": "#000000",
-		"editor.hoverHighlightBackground": "#eaffff",
+		"editor.hoverHighlightBackground": "#eeee9e",
 		"editor.inactiveSelectionBackground": "#eeee9e",
 		"editor.selectionBackground": "#eeee9e",
 		"editor.selectionHighlightBackground": "#eeee9e",
@@ -31,5 +31,14 @@
 		"statusBar.background": "#eaffff",
 		"statusBar.border": "#000000",
 		"statusBar.foreground": "#000000",
+		"tab.activeBackground": "#eaffff",
+        "tab.activeBorder": "#000000",
+        "tab.activeBorderTop": "#eaffff",
+        "tab.activeForeground": "#000",
+        "tab.inactiveBackground": "#eaffff",
+        "tab.border": "#eaffff",
+        "tab.hoverBackground": "#eeee9e",
+        "tab.hoverBorder": "#eaffff",
+        "tab.inactiveForeground": "#000",
 	}
 }
