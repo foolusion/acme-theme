@@ -25,6 +25,9 @@
 		"panel.background": "#ffffea",
 		"selection.background": "#eeee9e",
 		"sideBar.background": "#ffffea",
+		"scrollbarSlider.activeBackground": "#99994c",
+		"scrollbarSlider.background": "#99994c",
+		"scrollbarSlider.hoverBackground": "#99994c",
 		"statusBar.background": "#eaffff",
 		"statusBar.foreground": "#000000",
 	}
