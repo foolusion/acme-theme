@@ -29,6 +29,7 @@
 		"scrollbarSlider.background": "#99994c",
 		"scrollbarSlider.hoverBackground": "#99994c",
 		"statusBar.background": "#eaffff",
+		"statusBar.border": "#000000",
 		"statusBar.foreground": "#000000",
 	}
 }
