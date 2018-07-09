@@ -1,0 +1,22 @@
+{
+    "name": "acme-theme",
+    "displayName": "acme-theme",
+    "description": "A theme based on acme text editor",
+    "version": "0.0.1",
+    "publisher": "foolusion",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "acme",
+                "uiTheme": "vs",
+                "path": "./themes/acme-color-theme.json"
+            }
+        ]
+    }
+}
