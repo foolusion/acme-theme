@@ -45,5 +45,8 @@
 		"tab.hoverBackground": "#eeee9e",
 		"tab.hoverBorder": "#eaffff",
 		"tab.inactiveForeground": "#000",
+		"list.focusHighlightForeground": "#eaffff",
+                "quickInputList.focusForeground": "#eaffff",
+                "editorSuggestWidget.selectedForeground": "#eaffff",
 	}
 }
